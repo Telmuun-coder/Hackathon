@@ -1,0 +1,42 @@
+.test .ant-carousel .slick-slide {
+    text-align: center;
+    height: 400px;
+    line-height: 250px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  .test .ant-carousel .slick-slide h3 {
+    color: #fff;
+    z-index: 1;
+  }
+  .test{
+    margin-top: 2em;
+    margin-left: 3em;
+  }
+  .line{
+    margin-top: 3em;
+    height: 1px;
+    width: 100%;
+    background: #d4d3cd;
+  }
+  .info{
+    margin-top: 2em;
+  }
+  .sl1{
+    width: 100%;
+    height:auto;
+  }
+
+.ideaContent{
+  margin-top:1em;
+}
+.im1{
+  width:100%;
+  height: auto;
+}
+.ideaContent p{
+  margin: 1em;
+}
+/* .donater button{
+    
+} */

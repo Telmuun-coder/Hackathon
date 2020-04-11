@@ -1,0 +1,12 @@
+.addBtn {
+  padding: 15px 30px;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+  color: #595959;
+  transition: all 0.25s linear;
+  margin: 30%;
+}
+.addBtn {
+  border: 1px solid #020202;
+  color: #020202;
+}
